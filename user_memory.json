@@ -1,0 +1,22 @@
+{
+  "preferences": {
+    "area": {
+      "value": "Jaipur",
+      "source": "stated",
+      "confirmed": true,
+      "updated_at": "2026-10-31T11:41:44.919Z"
+    },
+    "date_range": {
+      "value": "tuesday",
+      "source": "stated",
+      "confirmed": true,
+      "updated_at": "2026-10-31T11:42:19.533Z"
+    },
+    "service": {
+      "value": "plumbing",
+      "source": "stated",
+      "confirmed": true,
+      "updated_at": "2026-10-31T11:41:40.586Z"
+    }
+  }
+}

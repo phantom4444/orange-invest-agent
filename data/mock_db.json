@@ -1,0 +1,145 @@
+{
+  "bookings": [
+    {
+      "id": "bk_1793375824843",
+      "user_id": "user_default",
+      "provider_id": "prov_1",
+      "service": "general",
+      "slot": "Monday 9:00 AM",
+      "status": "cancelled",
+      "quoted_price": 1400,
+      "idempotency_key": "idem_1793375747402_ild2k"
+    },
+    {
+      "id": "bk_1793380596144",
+      "user_id": "user_default",
+      "provider_id": "prov_2",
+      "service": "general",
+      "slot": "Monday 8:00 AM",
+      "status": "cancelled",
+      "quoted_price": 1450,
+      "idempotency_key": "idem_1793380565068_8uhx6"
+    },
+    {
+      "id": "bk_timeout_1793380940157",
+      "user_id": "user_default",
+      "provider_id": "prov_1",
+      "service": "general",
+      "slot": "Monday 9:00 AM",
+      "status": "cancelled",
+      "quoted_price": 1200,
+      "idempotency_key": "idem_1793380856648_gdzur"
+    },
+    {
+      "id": "bk_1793381137635",
+      "user_id": "user_default",
+      "provider_id": "prov_3",
+      "service": "general",
+      "slot": "Tuesday 2:00 PM",
+      "status": "cancelled",
+      "quoted_price": 999,
+      "idempotency_key": "idem_1793381076185_9dxiv"
+    },
+    {
+      "id": "bk_1793381412714",
+      "user_id": "user_1",
+      "provider_id": "prov_1",
+      "service": "general",
+      "slot": "Monday 9:00 AM",
+      "status": "upcoming",
+      "quoted_price": 1200,
+      "idempotency_key": "test_idem_1793381412713"
+    },
+    {
+      "id": "bk_1793381482752",
+      "user_id": "user_1",
+      "provider_id": "prov_1",
+      "service": "general",
+      "slot": "Monday 9:00 AM",
+      "status": "upcoming",
+      "quoted_price": 1200,
+      "idempotency_key": "test_idem_1793381482751"
+    },
+    {
+      "id": "bk_1793381631973",
+      "user_id": "user_1",
+      "provider_id": "prov_1",
+      "service": "general",
+      "slot": "Monday 9:00 AM",
+      "status": "upcoming",
+      "quoted_price": 1200,
+      "idempotency_key": "test_idem_1793381631972"
+    },
+    {
+      "id": "bk_1793381632577",
+      "user_id": "test_user_1793381631133_0.9515933826041714",
+      "provider_id": "prov_1",
+      "service": "general",
+      "slot": "Monday 9:00 AM",
+      "status": "upcoming",
+      "quoted_price": 1200,
+      "idempotency_key": "idem_1793381631133_4xvw9"
+    },
+    {
+      "id": "bk_1793381634524",
+      "user_id": "test_drift",
+      "provider_id": "prov_1",
+      "service": "general",
+      "slot": "Monday 9:00 AM",
+      "status": "upcoming",
+      "quoted_price": 1200,
+      "idempotency_key": "idem_1793381633765_i4lnj"
+    },
+    {
+      "id": "bk_timeout_1793381636199",
+      "user_id": "test_conflict",
+      "provider_id": "prov_10",
+      "service": "general",
+      "slot": "Tuesday 9:00 AM",
+      "status": "upcoming",
+      "quoted_price": 1300,
+      "idempotency_key": "idem_1793381635318_lb6es"
+    },
+    {
+      "id": "bk_1793381840436",
+      "user_id": "user_1",
+      "provider_id": "prov_1",
+      "service": "general",
+      "slot": "Monday 9:00 AM",
+      "status": "upcoming",
+      "quoted_price": 1200,
+      "idempotency_key": "test_idem_1793381840435"
+    },
+    {
+      "id": "bk_1793381841269",
+      "user_id": "test_user_1793381839851_0.49751867690220175",
+      "provider_id": "prov_1",
+      "service": "general",
+      "slot": "Monday 9:00 AM",
+      "status": "upcoming",
+      "quoted_price": 1200,
+      "idempotency_key": "idem_1793381839851_t1ix8"
+    },
+    {
+      "id": "bk_1793381845425",
+      "user_id": "test_conflict",
+      "provider_id": "prov_10",
+      "service": "general",
+      "slot": "Tuesday 9:00 AM",
+      "status": "upcoming",
+      "quoted_price": 1300,
+      "idempotency_key": "idem_1793381844508_ff9aq"
+    },
+    {
+      "id": "bk_1793446942463",
+      "user_id": "user_default",
+      "provider_id": "prov_1",
+      "service": "general",
+      "slot": "Tuesday 10:00 AM",
+      "status": "upcoming",
+      "quoted_price": 1200,
+      "idempotency_key": "idem_1793446884532_zhn5x"
+    }
+  ],
+  "cancelAttempts": {}
+}

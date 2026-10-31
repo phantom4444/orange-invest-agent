@@ -1,0 +1,21 @@
+{
+  "name": "orange-invest-agent",
+  "version": "1.0.0",
+  "description": "Founding AI Engineer Assignment - Errand Agent",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsx src/index.ts",
+    "test": "node --test --import tsx tests/evals.test.ts tests/evals_comprehensive.test.ts"
+  },
+  "dependencies": {
+    "@google/genai": "^2.32.0",
+    "dotenv": "^18.0.9",
+    "openai": "^7.45.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "tsx": "^4.7.0",
+    "typescript": "^5.0.0"
+  }
+}
